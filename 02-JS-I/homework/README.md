@@ -21,3 +21,7 @@
 
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+
+// file archivo; 
+
+// archivo = new file ("C:\User\NotebookLenovo\Desktop\Curso.prep.Henry-1\02-JS-|\Homework Num.2")
